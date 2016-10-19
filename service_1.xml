@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <item>
+        <serviceTypeId>1</serviceTypeId>
+        <serviceId>1</serviceId>
+        <serviceName>thiết kế website du lịch</serviceName>
+    </item>
+    <item>
+        <serviceTypeId>1</serviceTypeId>
+        <serviceId>2</serviceId>
+        <serviceName>thiết kế website bất động sản</serviceName>
+    </item>
+    <item>
+        <serviceTypeId>2</serviceTypeId>
+        <serviceId>3</serviceId>
+        <serviceName>thiết kế phần mềm bán hàng</serviceName>
+    </item>     
+</service>
